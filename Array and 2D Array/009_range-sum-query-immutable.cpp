@@ -1,6 +1,6 @@
-9.
-https://leetcode.com/problems/range-sum-query-immutable/description/
-303. Range Sum Query - Immutable
+// 9.
+// https://leetcode.com/problems/range-sum-query-immutable/description/
+// 303. Range Sum Query - Immutable
 
 //Make Notes form video for this Question:
 
