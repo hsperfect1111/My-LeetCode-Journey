@@ -1,8 +1,8 @@
-18.
-https://www.geeksforgeeks.org/maximum-difference-between-two-elements/
-Maximum Difference between Two Elements such that Larger Element Appears after the Smaller Element
+// 18.
+// https://www.geeksforgeeks.org/maximum-difference-between-two-elements/
+// Maximum Difference between Two Elements such that Larger Element Appears after the Smaller Element
 
-=> [Naive Approach] Using Two Nested Loops – O(n^2) time and O(1) space 
+// => [Naive Approach] Using Two Nested Loops – O(n^2) time and O(1) space 
 
 #include<bits/stdc++.h>
 using namespace std;
