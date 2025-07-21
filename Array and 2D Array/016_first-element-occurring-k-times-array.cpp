@@ -1,6 +1,6 @@
-16.
-https://www.geeksforgeeks.org/first-element-occurring-k-times-array/
-First element occurring k times in an array
+// 16.
+// https://www.geeksforgeeks.org/first-element-occurring-k-times-array/
+// First element occurring k times in an array
 
 #include <bits/stdc++.h>
 using namespace std;

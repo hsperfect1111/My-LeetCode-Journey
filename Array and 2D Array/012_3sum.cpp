@@ -1,6 +1,6 @@
-12.
-https://leetcode.com/problems/3sum/description/
-15. 3Sum
+// 12.
+// https://leetcode.com/problems/3sum/description/
+// 15. 3Sum
 
 class Solution {
 public:

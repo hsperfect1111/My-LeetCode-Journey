@@ -30,7 +30,7 @@ int main(){
     return 0;
 }
 
-=> [Efficient Approach – 1] Using Single Traversal – O(n) time and O(1) space
+// => [Efficient Approach – 1] Using Single Traversal – O(n) time and O(1) space
 
 #include<bits/stdc++.h>
 using namespace std;
@@ -63,7 +63,7 @@ int main()
 }
 
 
-=> [Efficient Approach – 2] Using Kadane’s Algorithm – O(n) time and O(1) space
+// => [Efficient Approach – 2] Using Kadane’s Algorithm – O(n) time and O(1) space
 
 #include<bits/c++.h>
 using namespace std;
