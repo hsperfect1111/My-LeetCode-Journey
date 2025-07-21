@@ -1,6 +1,6 @@
-https://www.geeksforgeeks.org/problems/max-distance-between-same-elements/1
-Max distance between same elements
-YT : https://www.youtube.com/watch?v=CwU2oflKEjQ
+// https://www.geeksforgeeks.org/problems/max-distance-between-same-elements/1
+// Max distance between same elements
+// YT : https://www.youtube.com/watch?v=CwU2oflKEjQ
 
 class Solution {
   public:

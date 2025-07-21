@@ -1,6 +1,6 @@
-14.
-https://www.lintcode.com/problem/3691/
-3691 · Dot Product of Two Sparse Vectors
+// 14.
+// https://www.lintcode.com/problem/3691/
+// 3691 · Dot Product of Two Sparse Vectors
 
 #include <iostream>
 #include <vector>
