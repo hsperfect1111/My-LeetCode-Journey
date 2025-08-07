@@ -1,7 +1,7 @@
-3.
-50. Pow(x, n)
-https://leetcode.com/problems/powx-n/description/
-YT : https://www.youtube.com/watch?v=7wcJXZoGKMI
+// 3.
+// 50. Pow(x, n)
+// https://leetcode.com/problems/powx-n/description/
+// YT : https://www.youtube.com/watch?v=7wcJXZoGKMI
 
 class Solution {
 public:
