@@ -1,6 +1,6 @@
-16.
-Subset Sums
-https://www.geeksforgeeks.org/problems/subset-sums2234/1
+// 16.
+// Subset Sums
+// https://www.geeksforgeeks.org/problems/subset-sums2234/1
 
 class Solution {
   public:
